@@ -1,2 +1,5 @@
 # MEGA-BRAIN-ATIVIDADE
 MEGA BRAIN BUILD 
+
+### AUTOR:
+Bruno Miranda da Rocha 
